@@ -8,5 +8,5 @@
 ["here is my linked in profile"](https://www.linkedin.com/in/omkar-sahane-7452691b2 "CLICK")
 
 ---
->by bye...!!!
+bye by...!!!
 ---
