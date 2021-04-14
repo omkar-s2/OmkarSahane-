@@ -7,6 +7,5 @@
  
 ["here is my linked in profile"](https://www.linkedin.com/in/omkar-sahane-7452691b2 "CLICK")
 
-![instgram.com]("https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy")
 
 by bye...!!!
