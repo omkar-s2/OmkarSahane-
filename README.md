@@ -4,4 +4,4 @@ WELCOME TO MY WORLD
   I'm Omkar Sahane
 
 here is my linked in profile 
-https://github.com/omkar-s2/OmkarSahane-/blob/main/linkedin.html
+https://www.linkedin.com/in/omkar-sahane-7452691b2
