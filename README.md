@@ -9,6 +9,7 @@
 <img width="50" hight="50" src="download.png">[insta](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy "CLICK")
 <img width="50" hight="50" src="twt.png">[twitter](https://twitter.com/Omkarsahane5?s=09 "CLICK")
 ---
+(8195 in UTF-8)
 <img width="50" hight="50" src="mail.png">[omkarsahane121@gamil.com](mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 ---
 bye by...!!!
