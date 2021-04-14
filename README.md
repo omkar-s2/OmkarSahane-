@@ -6,7 +6,7 @@
 
  
 [here is my linked in profile](https://www.linkedin.com/in/omkar-sahane-7452691b2 "CLICK")
-[<img width="10" hight="10" src="">social media](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy)
+[<img width="10" hight="10" src="https://github.com/omkar-s2/OmkarSahane-/blob/main/download.png">social media](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy)
 ---
 bye by...!!!
 ---
