@@ -14,8 +14,8 @@
 bye by...!!!
 
 code()
-  markup : 'code()'
-      var specificLanguage_code = 
+  
+      var html = 
     {
         "data": {
             "lookedUpPlatform": 1,
