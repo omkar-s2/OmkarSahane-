@@ -1,7 +1,7 @@
 # WELCOME TO MY BIO
   <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
   
-  ## I'm Omkar Sahane
+  ##I'm Omkar Sahane
 
  
 <img width="50" hight="50" src="likedin.png">[linkedin](https://www.linkedin.com/in/omkar-sahane-7452691b2 "CLICK")
