@@ -1,5 +1,5 @@
 # WELCOME TO MY BIO
-![](.1.html)
+![welcome](.1.html)
   <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
   
   _I'm Omkar Sahane_
