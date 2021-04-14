@@ -2,7 +2,7 @@
 
   <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
   
-  _ I'm Omkar Sahane_
+  _I'm Omkar Sahane_
 
  
 ["here is my linked in profile"](https://www.linkedin.com/in/omkar-sahane-7452691b2)
