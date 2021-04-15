@@ -18,4 +18,4 @@ Come back soon..
 -- --
 bye by...!!!
 
-[](https://github.com/omkar-s2/OmkarSahane-/blob/main/1.html)
+[.](https://github.com/omkar-s2/OmkarSahane-/blob/main/1.html)
