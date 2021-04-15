@@ -16,6 +16,6 @@ The website is under construction 🚧
 -- --
 Come back soon..
 -- --
-bye by...!!!
+> bye by...!!!
 
-[.](https://github.com/omkar-s2/OmkarSahane-/blob/main/1.html)
+
