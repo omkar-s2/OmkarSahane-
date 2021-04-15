@@ -1,6 +1,6 @@
 
 # WELCOME TO MY BIO
-
+<img width="200" alt="portfolio_view" src="DSC_0021_01.jpeg">
   
  ___I'm Omkar Sahane___
 
