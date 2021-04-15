@@ -1,5 +1,6 @@
 
 # WELCOME TO MY BIO
+  ![Markdown Logo](welcome.png)
   <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
   
  ___I'm Omkar Sahane___
