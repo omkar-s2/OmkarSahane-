@@ -1,5 +1,22 @@
 <html>
-
+<html>
+<head>
+	<title>Cyber Era</title>
+</head>
+<body>
+	<header>
+	<div class="main">
+	<ul>
+		<li><a href="#">home</a></li>
+		<li><a href="#">service</a></li>
+		<li><a href="#">gallary</a></li>
+		<li><a href="#">about</a></li>
+		<li><a href="#">contact</a></li>
+	</ul>
+	</div>
+	</header>
+</body>
+</html>
 
 
 
