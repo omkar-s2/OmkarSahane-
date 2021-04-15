@@ -14,7 +14,7 @@
 -- --
 * The website is under construction 🚧
 -- --
-* Come back soon..
+* Come back soon...
 -- --
 > bye by...!!!
 
