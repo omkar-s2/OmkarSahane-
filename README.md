@@ -4,12 +4,19 @@
   
  ___I'm Omkar Sahane___
 
- 
-<img width="50" hight="50" src="likedin.png">[linkedin](https://www.linkedin.com/in/omkar-sahane-7452691b2 "CLICK")
-<img width="50" hight="50" src="download.png">[insta](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy "CLICK")
-<img width="50" hight="50" src="twt.png">[twitter](https://twitter.com/Omkarsahane5?s=09 "CLICK")<br>
 
-<img width="50" hight="50" src="mail.png">[omkarsahane121](mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+ 
+[<img align="left" alt="omkarsahane" width="33px" src="likedin.png" />][linkedin]
+[<img align="left" alt="omkarsahane" width="33px" src="download.png" />][instagram]
+[<img align="left" alt="omkarsahane" width="33px" src="twt.png" />][twt]
+[<img align="left" alt="omkarsahane" width="33px" src="mail.png" />][mail]
+
+[linkedin]: https://www.linkedin.com/in/omkar-sahane-7452691b2
+[instagram]: https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy
+[twt]: https://twitter.com/Omkarsahane5?s=09
+[mail]: mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+
+<br /> 
 
 -- --
 * The website is under construction 🚧
