@@ -18,6 +18,15 @@
 
 <br /> 
 
+### PLAYLIST
+
+[<img align="left" alt="omkarsahane" width="33px" src="spotify.png" />][spotify]
+
+[spotify]: https://open.spotify.com/playlist/35iwwDlVguhCugOOwmbHOP?si=LpwJdGEATnipWBxaPzXalA&utm_source=copy-link
+
+<br />
+
+
 -- --
 * The website is under construction 🚧
 -- --
