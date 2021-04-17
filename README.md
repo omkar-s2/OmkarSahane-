@@ -26,7 +26,7 @@
 
 <br />
 
-
+<img align="left" alt="omkarsahane Github Stats" src="github-readme-stats-rust-xi.vercel.app/api?username=omkarsahane&show_icons=true&hide_border=true" />
 -- --
 * The website is under construction 🚧
 -- --
