@@ -34,4 +34,6 @@
 -- --
 > bye by...!!!
 
+### Spotify Playing 🎧
 
+[<img src="https://<now-playing-profile-omkar-s2.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h?si=dWgzaFPmRHqxCdaEnrrJrQ&utm_source=copy-link>)
