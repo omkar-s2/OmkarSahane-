@@ -39,3 +39,5 @@
 [<img src="now-playing-profile-omkar-s2.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=OXHmTT22Q022F0CLS2mCGw&utm_source=copy-link)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omkar-sahane-7452691b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/omkar-sahane-7452691b2?trk=profile-badge">omkar sahane</a></div>
